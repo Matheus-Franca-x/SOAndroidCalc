@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOAndroidExer01</string>
+    <string name="calc">Calcular</string>
+    <string name="ini">Digite os numeros e a operacao: +, -, *, /.</string>
+    <string name="op">Operaçao</string>
+    <string name="op_invalido">Operação inválida!</string>
+    <string name="caixa_vazia">Digite algo nas caixas!</string>
+    <string name="resultado">Veja o resultado da conta: </string>
+
+</resources>
